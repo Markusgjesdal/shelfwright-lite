@@ -1,0 +1,10 @@
+{
+  "name": "shelfwright-lite",
+  "description": "Three free agent skills for digital-product sellers: write an honest listing, QA the files before upload, and plan the launch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shelfwright"
+  },
+  "homepage": "https://markusgjesdal.gumroad.com/l/shelfwright-lite?utm_source=github&utm_medium=plugin",
+  "keywords": ["agent-skills", "skill-md", "digital-products", "listing", "product-qa", "launch-checklist"]
+}

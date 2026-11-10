@@ -1,0 +1,14 @@
+{
+  "name": "shelfwright",
+  "description": "Shelfwright Lite: free agent skills for people who sell digital products.",
+  "owner": {
+    "name": "Shelfwright"
+  },
+  "plugins": [
+    {
+      "name": "shelfwright-lite",
+      "source": "./",
+      "description": "Write an honest listing, QA the files before upload, and plan the launch (listing-writer, product-qa, launch-checklist)."
+    }
+  ]
+}
